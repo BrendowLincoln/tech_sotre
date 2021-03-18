@@ -10,10 +10,10 @@ Projeto de treino para o estudo sobre o tópico de "Gerência de Estado em Flutt
 
 ## Imagens do aplicativo
 
-![Home Screen](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge1.png)
-![Cart Screen](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge2.png)
-![Drawer Menu](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge3.png)
-![Order Screen](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge4.png)
+![Home Screen](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge1.png){:height="36px" width="36px"}.
+![Cart Screen](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge2.png){:height="36px" width="36px"}.
+![Drawer Menu](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge3.png){:height="36px" width="36px"}.
+![Order Screen](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge4.png){:height="36px" width="36px"}.
 
 
 
