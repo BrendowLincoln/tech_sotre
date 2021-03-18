@@ -8,6 +8,14 @@
 
 Projeto de treino para o estudo sobre o tópico de "Gerência de Estado em Flutter". Para o uso desse conceito foi usado o package 
 
+## Imagens do aplicativo
+
+![Home Screen](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge1.png)
+![Cart Screen](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge2.png)
+![Drawer Menu](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge3.png)
+![Order Screen](https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge4.png)
+
+
 
 
 ## Links referência :link:
