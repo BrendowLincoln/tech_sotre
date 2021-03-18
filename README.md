@@ -10,10 +10,10 @@ Projeto de treino para o estudo sobre o tópico de "Gerência de Estado em Flutt
 
 ## Imagens do aplicativo
 
-<img src="https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge1.png" width="200" height="200">
-<img src="https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge2.png" width="200" height="200">
-<img src="https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge3.png" width="200" height="200">
-<img src="https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge4.png" width="200" height="200">
+<img src="https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge1.png" width="680" height="1435.56">
+<img src="https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge2.png" width="680" height="1435.56">
+<img src="https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge3.png" width="680" height="1435.56">
+<img src="https://github.com/BrendowLincoln/tech_sotre_gerencia_estado/blob/main/assets/images/tech_store_ge4.png" width="680" height="1435.56">
 
 
 
