@@ -1,16 +1,18 @@
-# tech_store
+# Tech Store (Aplicando a gerência de estado)
 
-A project with flutter to pratice state management with provider
+![](https://img.shields.io/static/v1?label=Flutter&logoColor=lightblue&style=for-the-badge&logo=FLUTTER&message=FRAMEWORK&color=lightblue)
 
-## Getting Started
+![](https://img.shields.io/static/v1?label=Dart&logoColor=blue&style=for-the-badge&logo=DART&message=LINGUAGEM&color=blue)
 
-This project is a starting point for a Flutter application.
+## Objetivo :rocket:
 
-A few resources to get you started if this is your first Flutter project:
+Projeto de treino para o estudo sobre o tópico de "Gerência de Estado em Flutter". Para o uso desse conceito foi usado o package 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Links referência :link:
+
+- [Site Flutter oficial](https://flutter.dev/)
+- [Site Dart oficial](https://dart.dev/)
+- [Aprenda Flutter e Desenvolva Apps Para Android e IOS 2021 - Cod3r Cursos Online](https://www.udemy.com/course/curso-flutter/)
+
